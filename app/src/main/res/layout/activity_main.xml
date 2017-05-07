@@ -63,4 +63,10 @@
         android:layout_height="wrap_content"
         android:text="Change Image" />
 
+    <CheckBox
+        android:id="@+id/checkbox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:buttonTint="@color/CHECK_COLOR" />
+
 </android.support.constraint.ConstraintLayout>
