@@ -57,4 +57,10 @@
         android:onClick="setLogin"
         android:text="Login" />
 
+    <Button
+        android:id="@+id/btnChangeImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Image" />
+
 </android.support.constraint.ConstraintLayout>
